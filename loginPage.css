@@ -1,0 +1,157 @@
+h1 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+     }
+ 
+ 
+ h2 {
+     color: #ffffff;
+     font-size: 20px;
+     font-weight: 25px;
+     margin-bottom: 25px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     }
+ 
+     .loginForm {
+         margin-left: auto;
+         margin-right: auto;
+         border: solid rgb(175, 175, 175) 1px;
+         padding: 25px;
+         width: 600px;
+
+     }
+ 
+     .form-check {
+         color: white;
+         background-color: #2A2828;
+         border-radius: 25px;
+         margin-top: 25px;
+         margin-bottom: 25px;
+         margin-left: auto;
+         margin-right: auto;
+         padding-top: 15px;
+         padding-bottom: 15px;
+         padding-left: 10px;
+         padding-right: 10px;
+         width: 40%;
+     }
+        
+     input {
+         border-radius: 25px;
+         background: #2A2828;
+         width: 60px;
+     }
+
+     input[type="password"] {
+        border-radius: 25px;
+        background: #2A2828;
+        border: solid #2A2828 1px;
+        color: white;
+        padding-left: 20px;
+            padding-top: 7px;
+            padding-right: 60px;
+            padding-bottom: 7px;
+        
+     }
+
+     input[type="email"] {
+        border-radius: 25px;
+        background: #2A2828;
+        border: solid #2A2828 1px;
+        color: white;
+        padding-left: 20px;
+            padding-top: 7px;
+            padding-right: 60px;
+            padding-bottom: 7px;
+
+     }
+     .col-sm-5 {
+         margin-bottom: 30px;
+         margin-left:auto;
+         margin-right: auto;
+         text-align: center;
+     }
+
+
+        hr {
+            background-color: white;
+            margin: 50px;
+        }
+
+        .buttonWrapper {
+           text-align: center;
+        }
+
+
+        #signInButton {
+            text-align: center;
+            background-color: #03A9F4;
+            border-radius: 25px;
+            border: none;
+            padding-left: 50px;
+            padding-top: 5px;
+            padding-right: 50px;
+            padding-bottom: 5px;
+            color: white;
+            margin-top: 20px;
+
+        }
+
+        #signInButton:hover {
+            background-color: #b1e6ff;
+          }
+
+.alternativeLogin {
+    text-align: center;
+}
+
+          .alterButton {
+            text-align: center;
+            background-color: #03A9F4;
+            border-radius: 25px;
+            border: none;
+            padding-left: 50px;
+            padding-top: 7px;
+            padding-right: 50px;
+            padding-bottom: 7px;
+            color: white;
+            margin: 10px;
+            margin-top: 20px;
+            width: 300px;
+          }
+
+          #google {
+              background-color: #C20908;
+              border: none;
+          }
+
+          #facebook {
+              background-color: #3E538F;
+              border: none;
+          }
+
+          #facebook:hover {
+            background-color: #8c9bc4;
+          }
+
+          #google:hover {
+              background-color: #c2080879;
+          }
+
+          p { 
+              color:white;
+              text-align:center;
+              margin-top: 20px;
+          }
+
+          a { 
+              color: #03A9F4;
+
+          }
