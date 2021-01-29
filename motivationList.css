@@ -1,0 +1,91 @@
+h1 {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+     }
+ 
+.imageWrapper {
+    margin-left:auto;
+    margin-right: auto;
+}     
+
+ #targetIllustration {
+     border-radius: 50%;
+     height: 250px;
+     width: 350px;
+     margin-bottom: 25px;
+     border: 1px solid white;
+     margin-top: 30px;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+     }
+ 
+ h2 {
+     color: #ffffff;
+     font-size: 20px;
+     font-weight: 100px;
+     margin-top: 25px;
+     margin-bottom: 40px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     }
+ 
+ 
+     .form-check {
+         color: white;
+         background-color: #2A2828;
+         border-radius: 25px;
+         margin-top: 25px;
+         margin-bottom: 25px;
+         margin-left: auto;
+         margin-right: auto;
+         padding-top: 10px;
+         padding-bottom: 10px;
+         padding-left: 10px;
+         padding-right: 10px;
+         width: 50%;
+    
+     }
+ 
+     input[type=checkbox] {
+         margin-left: auto;
+         margin-right: auto;
+         display: block;
+         margin-left: 20px;
+     }
+
+     label {
+         text-align: center;
+     }
+
+     .form-check label:first-of-type {
+         text-align: center;
+         margin-left: 70px;
+     }
+
+     .flashButton {
+        background-color: #16A2B8;
+        border: none; 
+        border-radius: 50%;
+        color: white; 
+        padding: 6px 10px; 
+        font-size: 25px; 
+        cursor: pointer; 
+        margin-left: auto;
+        margin-right: auto;
+      }
+      
+      .flashButton:hover {
+        background-color: RoyalBlue;
+      }
+
+        .submitButton {
+            text-align: center;
+            margin-top: 30px;
+        }
