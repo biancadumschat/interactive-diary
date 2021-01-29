@@ -1,0 +1,93 @@
+h1 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 100px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+     }
+
+h2 {
+    color: white;
+    font-size: 15px;
+    font-weight: 100px;
+    margin-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+        }
+
+
+ .profileWrapper {
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 100%;
+    border: solid rgb(0, 0, 0) 1px;
+    margin-top: 30px;
+    text-align:center;
+ }
+ 
+ #profilePic {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    text-align:center;
+
+ }
+
+ .goalsList {
+     background-color:#2A2828;
+     border-radius: 33px;
+     width: 550px;
+     margin-left: auto;
+     margin-right: auto;
+     overflow-y:auto;
+     height: 300px;
+    
+ }
+
+ .form-check {
+    color: rgb(255, 255, 255);
+    background-color: #2A2828;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60%;
+ }
+
+hr {
+    background-color:#dddddd;
+    margin: 0px 0px;
+}
+
+ input[type=checkbox] {
+    display: block;
+    padding-left: 20px;
+    margin-left: -40px;
+ }
+ .form-check label:first-of-type {
+    margin-left: 20px;
+ }
+
+ .submitButton {
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+ }
+ .btn-outline-secondary {
+    margin-top: 40px;
+    width: 120px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
